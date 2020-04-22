@@ -20,3 +20,8 @@ My name is Ben! I am patner 1!
 ```
 Annablle can edit too!
 ```
+
+## Testing with merging changes:
+Both partners: try writing something on the line below:
+
+REPLACE THIS TEXT WITH YOUR OWN
