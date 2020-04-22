@@ -26,4 +26,4 @@ Annablle can edit too!
 ## Testing with merging changes:
 Both partners: try writing something on the line below (line 29):
 
-REPLACE THIS TEXT WITH YOUR OWN
+REPLACE THIS TEXT WITH YOUR OWN This is Annabelle's text 
