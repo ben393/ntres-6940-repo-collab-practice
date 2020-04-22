@@ -26,4 +26,4 @@ Annablle can edit too!
 ## Testing with merging changes:
 Both partners: try writing something on the line below (line 29):
 
-This is Annabelle's text
+We are practicing merging changes on GitHub!
