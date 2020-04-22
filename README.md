@@ -26,4 +26,4 @@ Annablle can edit too!
 ## Testing with merging changes:
 Both partners: try writing something on the line below (line 29):
 
-REPLACE THIS TEXT WITH YOUR OWN
+I am testing out merging a conflict!
