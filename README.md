@@ -7,6 +7,8 @@ Practice with repo collaboration
 
 **Lecture Slides are here:** https://github.com/nt246/NTRES6940-data-science/blob/master/slides/Slides_class10.pdf
 
+The sample website landing page for this project is here: https://ben393.github.io/ntres-6940-repo-collab-practice/
+
 <br>
 
 ## Partner 1
