@@ -8,6 +8,7 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+![](https://github.com/ben393/ntres-6940-repo-collab-practice/blob/gh-pages/car.jpg)
 
 ## R Markdown
 
